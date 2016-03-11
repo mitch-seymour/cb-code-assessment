@@ -28,4 +28,4 @@ function reverse_string($str){
     
 }
 
-echo reverse_string("Hello"); // 𝌆 redliuB reeraC
+echo reverse_string("Career Builder 𝌆"); // 𝌆 redliuB reeraC

@@ -38,6 +38,6 @@ function char_count($str){
 }
 
 // example
-$count = char_count("abacca");
+$count = char_count("Career Builder 𝌆");
 
 print_r($count); // Array ( [C]=>1 [a]=>1 [r]=>3 [e]=>3 [ ]=>2 [B]=>1 [u]=>1 ... )
